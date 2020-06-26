@@ -1,6 +1,6 @@
 # Revision history for floobgizmo
 
-## 1.0.2-dev  
+## 1.0.2  2020-06-26
 
 
 [Add release notes here]
